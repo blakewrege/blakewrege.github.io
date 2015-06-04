@@ -8,7 +8,7 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Personal Profile
 tagline: Site Tagline
 author :
   name : Name Wrege
@@ -93,7 +93,7 @@ JB :
       width: 580
       colorscheme: light
     duoshuo :
-      short_name : jekyllbootstrap
+      short_name : gigglesbw4
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
