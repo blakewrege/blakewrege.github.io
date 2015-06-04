@@ -4,7 +4,8 @@ title: "Hello World"
 description: "testing if this thing works"
 category: test 
 tags: [test]
+
 ---
-<img src="duckling.gif" alt="duck">
+<img src="assets/duckling.gif" alt="duck">
 
 {% include JB/setup %}
