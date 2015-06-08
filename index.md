@@ -15,7 +15,7 @@ img {
     margin-left: auto;
     margin-right: auto
 }
-    div.background {width:500px; height:500px; display:block; margin-left:auto; 
+    div.background {width:auto; height:auto; display:block; margin-left:auto; 
     margin-right:auto;background-color:Black;}
 
     div.box { margin: 0 auto; position: relative; top: 125px; width:250px; height:250px;background-color:white;border:5px        dotted white; opacity:0.5;}
