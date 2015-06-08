@@ -1,4 +1,10 @@
-<head>
+---
+layout: page
+title: Blake Wrege
+tagline: Computer Programmer
+---
+{% include JB/setup %}
+
 <style>
 img {
     display: block;
@@ -8,14 +14,6 @@ img {
     height: auto;
 }
 </style>
-</head>
-
----
-layout: page
-title: Blake Wrege
-tagline: Computer Programmer
----
-{% include JB/setup %}
 
 My attempt to make a Blog
 <img src="/assets/images/blake.jpg" alt="Blake">   
