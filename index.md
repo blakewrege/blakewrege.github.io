@@ -20,6 +20,21 @@ tagline: Computer Programmer
 My attempt to make a Blog
 <img src="/assets/images/blake.jpg" alt="Blake">   
 
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <img class="img-responsive" src="/assets/images/blake.jpg" alt="">
+                    <div class="intro-text">
+                        <span class="name">Start Bootstrap</span>
+                        <hr class="star-light">
+                        <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
 
 List of posts 
 
