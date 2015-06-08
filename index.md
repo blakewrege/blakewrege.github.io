@@ -15,14 +15,10 @@ img {
     margin-left: auto;
     margin-right: auto
     
-    div {
-    position: relative;
-    }
+    div.background {width:500px; height:500px; display:block; margin-left:auto; 
+    margin-right:auto;background-color:Black;}
 
-  .inner-image {
-  position: absolute;
-  top: 15px;
-  right: 30px;
+    div.box { margin: 0 auto; position: relative; top: 125px; width:250px; height:250px;background-color:white;border:5px        dotted white; opacity:0.5;}
 }
     
     
@@ -33,9 +29,10 @@ My attempt to make a Blog
 <img src="/assets/images/blake.jpg" alt="Blake">   
 
 
-<div>
-  <img src="/assets/images/blake.jpg" alt="" class="inner-image"/>
-  <img src="http://p1.pichost.me/i/45/1685510.jpg" alt="" />
+<div class="background">
+    <div class="box">
+        <img src="/assets/images/blake.jpg" alt="Blake"> 
+    <br />
 </div>
 
 
