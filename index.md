@@ -7,7 +7,7 @@ tagline: Computer Programmer
 
 <style>
 img {
-  
+    display: block;
     max-width:360px;
     max-height:480px;
     width: auto;
@@ -15,19 +15,9 @@ img {
     margin-left: auto;
     margin-right: auto
 }
-    div.background {width:auto; height:auto; display:block; margin-left:auto; 
-    margin-right:auto;background-color:Black;}
 
-    div.box { margin: 0 auto; position: relative; top: 125px; background-color:Black;}
-    
-    
-}
 </style>
 
-<div class="background">
-    <div class="box">
-        <img src="/assets/images/blake.jpg" alt="Blake"> 
-</div>
 
 
 
