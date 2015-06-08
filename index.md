@@ -12,26 +12,19 @@ img {
     max-height:480px;
     width: auto;
     height: auto;
+    margin-left: auto;
+    margin-right: auto
 }
 </style>
 
 My attempt to make a Blog
 <img src="/assets/images/blake.jpg" alt="Blake">   
 
-    <header>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <img class="img-responsive" src="/assets/images/blake.jpg" alt="">
-                    <div class="intro-text">
-                        <span class="name">Start Bootstrap</span>
-                        <hr class="star-light">
-                        <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+<div style="position: relative; left: 0; top: 0;">
+  <img src="/assets/images/blake.jpg" style="position: relative; top: 0; left: 0;"/>
+  <img src="/assets/images/duckling.gif" style="position: absolute; top: 30px; left: 70px;"/>
+</div>
+
 
 
 List of posts 
