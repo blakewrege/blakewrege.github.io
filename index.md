@@ -7,7 +7,7 @@ tagline: Computer Programmer
 
 <style>
 img {
-    display: block;
+  
     max-width:360px;
     max-height:480px;
     width: auto;
