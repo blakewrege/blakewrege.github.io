@@ -24,15 +24,17 @@ img {
 }
 </style>
 
+<div class="background">
+    <div class="box">
+        <img src="/assets/images/blake.jpg" alt="Blake"> 
+</div>
+
+
+
 My attempt to make a Blog
 <img src="/assets/images/blake.jpg" alt="Blake">   
 
 
-<div class="background">
-    <div class="box">
-        <img src="/assets/images/blake.jpg" alt="Blake"> 
-    <br />
-</div>
 
 
 List of posts 
