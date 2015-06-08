@@ -14,17 +14,29 @@ img {
     height: auto;
     margin-left: auto;
     margin-right: auto
+    
+    div {
+    position: relative;
+    }
+
+  .inner-image {
+  position: absolute;
+  top: 15px;
+  right: 30px;
+}
+    
+    
 }
 </style>
 
 My attempt to make a Blog
 <img src="/assets/images/blake.jpg" alt="Blake">   
 
-<div style="position: relative; left: 0; top: 0;">
-  <img src="/assets/images/blake.jpg" style="position: relative; top: 0; left: 0;"/>
-  <img src="/assets/images/duckling.gif" style="position: absolute; top: 30px; left: 70px;"/>
-</div>
 
+<div>
+  <img src="/assets/images/blake.jpg" alt="" class="inner-image"/>
+  <img src="http://p1.pichost.me/i/45/1685510.jpg" alt="" />
+</div>
 
 
 List of posts 
