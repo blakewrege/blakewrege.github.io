@@ -6,6 +6,6 @@ category: test
 tags: [test]
 
 ---
-<img src="/assets/duckling.gif" alt="duck">
+<img src="/assets/images/duckling.gif" alt="duck">
 
 {% include JB/setup %}
