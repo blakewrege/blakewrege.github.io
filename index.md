@@ -16,13 +16,15 @@ img {
     margin-right: auto
 }
 
-.container {
+.bio {
     text-align:center;
 }
 
-.CommentBox input[type="text"] {
-    display: block;
-    margin: 0 auto;
+body {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 }
 
 </style>
@@ -33,7 +35,7 @@ img {
 My attempt to make a Blog
 <img src="/assets/images/blake.jpg" alt="Blake">   
 
-<div class="container">
+<div class="bio">
 <p class="text-center">Hello I'm Blake Wrege! I'm a full time Student at WMU and a part time computer technician for the College of Arts and Sciences. This website will forever be a work in progress as I am always striving to find ways to improve.</p>
 </div>
 
