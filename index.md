@@ -18,6 +18,7 @@ img {
 
 p.main {
     text-align: justify;
+    width: 50%;
 }
 
 
