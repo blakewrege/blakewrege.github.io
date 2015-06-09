@@ -16,28 +16,6 @@ img {
     margin-right: auto
 }
 
-.bio.vertical-center {
-  margin-bottom: 0; 
-}
-
-.vertical-center {
-  min-height: 100%;
-  min-height: 100vh; 
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex; 
-  width: 100%;
-  
-         -webkit-box-pack : center;
-            -moz-box-pack : center;
-            -ms-flex-pack : center;
-  	 -webkit-justify-content : center;
-          justify-content : center;
-}
-
-}
 
 </style>
 
@@ -46,7 +24,7 @@ img {
 My attempt to make a Blog
 	<img src="/assets/images/blake.jpg" alt="Blake">   
 	
-<div class="container-fluid">
+<div class="container">
 	<div class="row">
 <p>Hello I'm Blake Wrege! I'm a full time Student at WMU and a part time computer technician for the College of Arts and Sciences. This website will forever be a work in progress as I am always striving to find ways to improve.</p>
 	</div>
