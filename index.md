@@ -16,12 +16,7 @@ img {
     margin-right: auto
 }
 
-.CommentBox {
-    width:400px;
-    height:50px;
-    background-color: #A12A1E;
-    color:White;
-    margin:0 auto;
+.container {
     text-align:center;
 }
 
