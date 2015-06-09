@@ -16,6 +16,20 @@ img {
     margin-right: auto
 }
 
+.CommentBox {
+    width:400px;
+    height:50px;
+    background-color: #A12A1E;
+    color:White;
+    margin:0 auto;
+    text-align:center;
+}
+
+.CommentBox input[type="text"] {
+    display: block;
+    margin: 0 auto;
+}
+
 </style>
 
 
@@ -24,7 +38,9 @@ img {
 My attempt to make a Blog
 <img src="/assets/images/blake.jpg" alt="Blake">   
 
-
+<div class="container">
+Hello I'm Blake Wrege! I'm a full time Student at WMU and a part time computer technician for the College of Arts and Sciences. This website will forever be a work in progress as I am always striving to find ways to improve.
+</div>
 
 
 List of posts 
