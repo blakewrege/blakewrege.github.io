@@ -42,9 +42,10 @@ img {
 </style>
 
 
-<div class="bio vertical-center">
-	My attempt to make a Blog
+
+My attempt to make a Blog
 	<img src="/assets/images/blake.jpg" alt="Blake">   
+<div class="bio vertical-center">
 	<div class="container text-center">
 <p class="text-center">Hello I'm Blake Wrege! I'm a full time Student at WMU and a part time computer technician for the College of Arts and Sciences. This website will forever be a work in progress as I am always striving to find ways to improve.</p>
 	</div>
