@@ -16,6 +16,10 @@ img {
     margin-right: auto
 }
 
+p.main {
+    text-align: justify;
+}
+
 
 </style>
 
@@ -25,7 +29,7 @@ My attempt to make a Blog
 	<img src="/assets/images/blake.jpg" alt="Blake">   
 	
 
-<p>Hello I'm Blake Wrege! I'm a full time Student at WMU and a part time computer technician for the College of Arts and Sciences. This website will forever be a work in progress as I am always striving to find ways to improve.</p>
+<p class="main">Hello I'm Blake Wrege! I'm a full time Student at WMU and a part time computer technician for the College of Arts and Sciences. This website will forever be a work in progress as I am always striving to find ways to improve.</p>
 
 List of posts 
 
