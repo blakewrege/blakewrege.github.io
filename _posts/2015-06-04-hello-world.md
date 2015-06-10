@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "blarg"
 description: "testing if this thing works"
 category: test 
 tags: [test]
