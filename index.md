@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blake Wrege
-tagline: Computer Programmer
+tagline: Application Developer and IT Specialist
 ---
 {% include JB/setup %}
 
