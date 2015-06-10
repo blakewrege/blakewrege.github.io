@@ -14,7 +14,7 @@ tags: [test, ducks, soundcloud]
 
  
 <img src="/assets/images/duckling.gif" alt="duck">
-<p>In memory of my first <a href="https://cclub.cs.wmich.edu/~gigglesbw4/" rel="me">website.</a> Music is courtesy of Chris Sphinx </p>
+<p>In memory of my first <a href="https://cclub.cs.wmich.edu/~gigglesbw4/" rel="me">website</a>. Music is courtesy of Chris Sphinx </p>
 
 
 
