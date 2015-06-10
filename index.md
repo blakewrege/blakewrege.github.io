@@ -6,14 +6,7 @@ tagline: Computer Programmer
 {% include JB/setup %}
 
 <style>
-img {
-    max-width:360px;
-    max-height:480px;
-    width: auto;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 
 p.main {
     text-align: justify;
