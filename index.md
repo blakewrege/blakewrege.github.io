@@ -13,7 +13,7 @@ img {
     width: auto;
     height: auto;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
 }
 
 p.main {
