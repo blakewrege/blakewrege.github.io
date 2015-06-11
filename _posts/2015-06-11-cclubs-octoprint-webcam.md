@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: []
 ---
-<iframe src="http://www.w3schools.com">
+<iframe src="http://magpie.dhcp.io:1337/">
 </iframe>
 
 {% include JB/setup %}
