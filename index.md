@@ -30,7 +30,7 @@ List of posts
   {% endfor %}
 </ul>
 <div class="container">
-  <button type="button" class="btn btn-default">My Resume</button>
+  <button type="button" class="btn" style="float: right;">My Resume</button>
 </div>
 
 
