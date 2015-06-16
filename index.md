@@ -29,7 +29,7 @@ List of posts
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-  <button type="button" class="btn" style="float: right;">My Resume</button>
+  <button type="button" class="btn">My Resume</button>
 
 
 
