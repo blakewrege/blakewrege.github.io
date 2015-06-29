@@ -2,7 +2,7 @@
 #http://www.imagemagick.org/script/binary-releases.php#windows
 
 #Select which routine you would like to run: 1, 2, or 3 
-$option=3
+$option=1
 #Gravity is the position of the label: North, South, Center
 $gravity="South" 
 #Use "convert -list color" to see color options ex: Green, Red, Orange, Blue, Black, White
