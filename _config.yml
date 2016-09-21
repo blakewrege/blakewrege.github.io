@@ -14,7 +14,7 @@ tagline: Computer Programmer
 author :
   name : Blake Wrege
   email : blakewrege1@gmail.com
-  github : gigglesbw4
+  github : blakewrege
   twitter : BlakeWrege
   feedburner : feedname
   resume : https://drive.google.com/file/d/0BwkQJZ7Tn_wWOERKN0FGd3hPdVU/view?usp=sharing
@@ -27,7 +27,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://gigglesbw4.github.io
+production_url : http://blakewrege.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
